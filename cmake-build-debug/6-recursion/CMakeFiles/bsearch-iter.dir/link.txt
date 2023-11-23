@@ -1,0 +1,3 @@
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\bsearch-iter.dir/objects.a
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\ar.exe qc CMakeFiles\bsearch-iter.dir/objects.a @CMakeFiles\bsearch-iter.dir\objects1.rsp
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\bsearch-iter.dir/objects.a -Wl,--no-whole-archive -o bsearch-iter.exe -Wl,--out-implib,libbsearch-iter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bsearch-iter.dir\linkLibs.rsp

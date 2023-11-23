@@ -1,0 +1,3 @@
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\leap-else-if.dir/objects.a
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\ar.exe qc CMakeFiles\leap-else-if.dir/objects.a @CMakeFiles\leap-else-if.dir\objects1.rsp
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\leap-else-if.dir/objects.a -Wl,--no-whole-archive -o leap-else-if.exe -Wl,--out-implib,libleap-else-if.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\leap-else-if.dir\linkLibs.rsp

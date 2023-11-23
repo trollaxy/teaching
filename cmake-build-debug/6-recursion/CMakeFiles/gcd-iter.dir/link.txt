@@ -1,0 +1,3 @@
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\gcd-iter.dir/objects.a
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\ar.exe qc CMakeFiles\gcd-iter.dir/objects.a @CMakeFiles\gcd-iter.dir\objects1.rsp
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\gcd-iter.dir/objects.a -Wl,--no-whole-archive -o gcd-iter.exe -Wl,--out-implib,libgcd-iter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gcd-iter.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\min-of-three.dir/objects.a
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\ar.exe qc CMakeFiles\min-of-three.dir/objects.a @CMakeFiles\min-of-three.dir\objects1.rsp
+D:\JetBrains\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\min-of-three.dir/objects.a -Wl,--no-whole-archive -o min-of-three.exe -Wl,--out-implib,libmin-of-three.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\min-of-three.dir\linkLibs.rsp
